@@ -1,0 +1,6 @@
+streamlit==1.35.0
+sqlalchemy==2.0.36
+bcrypt==4.2.1
+pyjwt==2.9.0
+python-dotenv==1.0.1
+python-dateutil==2.9.0

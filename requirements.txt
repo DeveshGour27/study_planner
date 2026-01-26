@@ -1,0 +1,51 @@
+# Core Framework
+streamlit==1.35.0
+
+# Authentication & Security
+bcrypt==4.2.1
+pyjwt==2.9.0
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.13.3
+
+# LLM & AI
+huggingface-hub==0.26.0
+sentence-transformers==3.3.1
+langchain==0.3.14
+langchain-community==0.3.14
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.11.4
+
+# Vector Database (for RAG)
+chromadb==0.5.23
+faiss-cpu==1.9.0
+
+# HTTP Requests (for code execution API)
+requests==2.32.3
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Date & Time
+python-dateutil==2.9.0
+pytz==2024.2
+
+# Scheduling (for daily notifications)
+APScheduler==3.10.4
+
+# Data Validation
+pydantic==2.10.4
+email-validator==2.2.0
+
+# Streamlit Extensions
+streamlit-autorefresh==1.0.1
+streamlit-chat==0.1.1
+
+# Utilities
+numpy==2.2.1
+pandas==2.2.3
+
+sentence-transformers==2.3.1
